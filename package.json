@@ -1,13 +1,13 @@
 {
   "name": "crud",
   "version": "1.0.0",
-  "description": "",
+  "description": "App to create notes",
   "main": "index.js",
   "scripts": {
     "server": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonathan Rangel",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
